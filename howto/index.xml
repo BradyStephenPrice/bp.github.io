@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How To on Brady Price</title>
-    <link>/howto/</link>
+    <link>http://localhost:60669/bp.github.io/howto/</link>
     <description>Recent content in How To on Brady Price</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="/howto/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Brady Price</copyright>
+    <atom:link href="http://localhost:60669/bp.github.io/howto/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

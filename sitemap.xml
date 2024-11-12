@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/bio/</loc>
+    <loc>http://localhost:60669/bp.github.io/bio/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>http://localhost:60669/bp.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/howto/</loc>
+    <loc>http://localhost:60669/bp.github.io/howto/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:60669/bp.github.io/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-Sitemap: /sitemap.xml
+Disallow: /
+Sitemap: http://localhost:60669/bp.github.io/sitemap.xml
