@@ -115,7 +115,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/lar_and_me_farm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/howto/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

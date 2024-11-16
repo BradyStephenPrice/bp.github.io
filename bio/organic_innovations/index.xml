@@ -17,7 +17,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/lar_and_me_farm/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/lar_and_me_farm/featured.png" />
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/featured.JPEG" />
     </item>
     
     <item>
