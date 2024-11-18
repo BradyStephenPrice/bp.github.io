@@ -71,26 +71,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Alfa Grease</title>
       <link>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/alfa_grease/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -301,6 +281,16 @@
     </item>
     
     <item>
+      <title>My Genetics</title>
+      <link>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>OG Grease</title>
       <link>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/og_grease/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -366,6 +356,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/laboratory/sparations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sunrise Genetics</title>
+      <link>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</guid>
       <description></description>
       
     </item>
