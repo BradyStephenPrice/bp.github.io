@@ -115,7 +115,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/vape_pen/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/winterizations/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/distillation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -135,7 +150,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/oil/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/oil_test_results/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/roto_vape/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/sparations/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
