@@ -397,7 +397,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/howto/books/teaming_with_cyanobateria/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/books/teaming_with_cyanobateria/featured.jpg" />
     </item>
     
     <item>
@@ -407,7 +407,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/howto/books/teaming_with_fungi/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/books/teaming_with_fungi/featured.png" />
     </item>
     
     <item>
@@ -417,7 +417,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/howto/books/teaming_with_microbes/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/books/teaming_with_microbes/featured.png" />
     </item>
     
     <item>
@@ -427,7 +427,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/howto/books/teaming_with_nutrients/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/books/teaming_with_nutrients/featured.png" />
     </item>
     
     <item>

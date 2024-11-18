@@ -105,26 +105,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/bloom_grease/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/blue_grease/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/alfa_grease/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -150,6 +130,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/bloom_grease/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/blue_grease/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/howto/books/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -171,6 +161,16 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/gold_label/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/golden_gun/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/green_label/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -230,12 +230,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/og_grease/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/laboratory/oil/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/laboratory/oil_test_results/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/purple_label/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -251,6 +266,16 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/laboratory/sparations/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/super_grease/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
