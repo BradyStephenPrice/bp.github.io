@@ -21,6 +21,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/books/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -28,6 +34,66 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_clone/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_alfalafa_extract/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_canna_for_plants/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_compost_tea/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_crude_oil/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_distillate_short_path/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_sulfur/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_mix_fertilizer/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_mix_soil/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -140,11 +206,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/books/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -181,56 +242,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_clone/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_alfalafa_extract/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_canna_for_plants/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_compost_tea/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_crude_oil/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_distillate_short_path/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_sulfur/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_mix_fertilizer/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_mix_soil/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -290,22 +301,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/books/teaming_with_cyanobateria/</loc>
+    <loc>http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/books/teaming_with_fungi/</loc>
+    <loc>http://localhost:1313/bp.github.io/books/teaming_with_fungi/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/books/teaming_with_microbes/</loc>
+    <loc>http://localhost:1313/bp.github.io/books/teaming_with_microbes/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/books/teaming_with_nutrients/</loc>
+    <loc>http://localhost:1313/bp.github.io/books/teaming_with_nutrients/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
