@@ -150,6 +150,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/laboratory/distillation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -280,7 +285,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/tags/</loc>
+    <loc>http://localhost:1313/bp.github.io/img/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

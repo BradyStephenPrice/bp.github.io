@@ -11,6 +11,16 @@
     <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
     <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/bp.github.io/bio/laboratory/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Crude</title>
+      <link>http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/featured.png" />
+    </item>
+    
+    <item>
       <title>Distillate</title>
       <link>http://localhost:1313/bp.github.io/bio/laboratory/distillation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -77,7 +87,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/laboratory/winterizations/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/laboratory/winterizations/featured.png" />
     </item>
     
   </channel>

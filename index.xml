@@ -141,6 +141,16 @@
     </item>
     
     <item>
+      <title>Crude</title>
+      <link>http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/featured.png" />
+    </item>
+    
+    <item>
       <title>Distillate</title>
       <link>http://localhost:1313/bp.github.io/bio/laboratory/distillation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -361,13 +371,13 @@
     </item>
     
     <item>
-      <title>Sunrise Genetics</title>
+      <title>Sunshine Genetics</title>
       <link>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/featured1.png" />
     </item>
     
     <item>
@@ -382,10 +392,10 @@
     
     <item>
       <title>Tags</title>
-      <link>http://localhost:1313/bp.github.io/tags/</link>
+      <link>http://localhost:1313/bp.github.io/img/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/tags/</guid>
+      <guid>http://localhost:1313/bp.github.io/img/</guid>
       <description></description>
       
     </item>
@@ -447,7 +457,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/laboratory/winterizations/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/laboratory/winterizations/featured.png" />
     </item>
     
     <item>
