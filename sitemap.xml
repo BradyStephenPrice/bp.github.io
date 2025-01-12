@@ -221,7 +221,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/books/dr.white/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/fertilizers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -301,6 +311,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/books/teaming_with_bacteria/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -317,6 +332,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/books/teaming_with_nutrients/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/books/teaming_with_algae/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
