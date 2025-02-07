@@ -251,6 +251,16 @@
     </item>
     
     <item>
+      <title>Dr.James White</title>
+      <link>http://localhost:1313/bp.github.io/books/dr.white/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/dr.white/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/dr.white/featured.png" />
+    </item>
+    
+    <item>
       <title>Farm 25898 CR.17.5 Milliken, Colorado</title>
       <link>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
