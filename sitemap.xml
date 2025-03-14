@@ -21,7 +21,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_cannabis_for_plants/</loc>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_oil_for_plants/</loc>
     <lastmod>2025-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -51,31 +51,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_clone/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_alfalafa_extract/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_crude_oil/</loc>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_clone_plants/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -87,7 +63,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_sulfur/</loc>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_sulfur_for_plants/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_crude_oil/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_plant_extracts_for_plants/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -99,43 +87,91 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/spriter_van/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/dinaminica_generale/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/</loc>
     <lastmod>2018-07-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/cannabis_harvester/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/cannabis_harvester/</loc>
     <lastmod>2018-07-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/orkel/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/</loc>
     <lastmod>2018-07-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/plant_stripper/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/</loc>
+    <lastmod>2018-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms/</loc>
+    <lastmod>2018-02-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/plant_stripper/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/western_bakery/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</loc>
     <lastmod>2017-07-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -147,13 +183,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/reims_farm/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/reims_farm/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/dna_sequencing/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -206,27 +242,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/crude_oil/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/crude_oil/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/distillation/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/distillation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/books/dr.white/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -251,12 +277,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/my_genetics/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/dna_sequencing/my_genetics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -266,12 +287,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/oil/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/oil_test_results/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil_test_results/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -281,22 +302,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/roto_vape/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/roto_vape/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/sparations/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/sparations/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/bp.github.io/bio/dna_sequencing/sunrise_genetics/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/dna_sequencing/sunrise_genetics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -341,12 +357,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/vape_pen/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/vape_pen/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/laboratory/winterizations/</loc>
+    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/winterizations/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

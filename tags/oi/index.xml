@@ -9,15 +9,25 @@
     <managingEditor>bradyprice1@gmail.com (Brady Price)</managingEditor>
     <webMaster>bradyprice1@gmail.com (Brady Price)</webMaster>
     <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
-    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/bp.github.io/tags/oi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/bp.github.io/tags/oi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Organic Innovations</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      <title>CR.17 - 80 Acre Farm</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/</guid>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/featured.png" />
+    </item>
+    
+    <item>
+      <title>Farm 25898 CR.17.5 Milliken, Colorado</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/featured.JPEG" />
     </item>
     
   </channel>

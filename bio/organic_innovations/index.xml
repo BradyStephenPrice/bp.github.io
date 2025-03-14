@@ -11,9 +11,29 @@
     <copyright>&amp;copy; 2024 Brady Price. All Rights Revered.</copyright>
     <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/bp.github.io/bio/organic_innovations/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dinaminica Generale</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/featured.png" />
+    </item>
+    
+    <item>
+      <title>Orkel</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/featured.png" />
+    </item>
+    
+    <item>
       <title>CR.17 - 80 Acre Farm</title>
       <link>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/80acre_farm/</guid>
       <description></description>
@@ -23,7 +43,7 @@
     <item>
       <title>Farm 25898 CR.17.5 Milliken, Colorado</title>
       <link>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/</guid>
       <description></description>
@@ -31,23 +51,33 @@
     </item>
     
     <item>
-      <title>Greenhouses</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/featured.png" />
-    </item>
-    
-    <item>
       <title>South Dakota Farm</title>
       <link>http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/south_dakota/featured.JPG" />
+    </item>
+    
+    <item>
+      <title>Plant Stripper</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/plant_stripper/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/plant_stripper/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/plant_stripper/featured.png" />
+    </item>
+    
+    <item>
+      <title>Western Bakery</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/featured.png" />
     </item>
     
   </channel>

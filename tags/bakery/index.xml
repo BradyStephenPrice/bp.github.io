@@ -12,12 +12,12 @@
     <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/bp.github.io/tags/bakery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Western Bakery</title>
-      <link>http://localhost:1313/bp.github.io/bio/western_bakery/</link>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/western_bakery/</guid>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/western_bakery/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/featured.png" />
     </item>
     
   </channel>
