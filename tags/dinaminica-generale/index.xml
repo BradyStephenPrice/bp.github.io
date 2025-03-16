@@ -20,15 +20,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/featured.png" />
     </item>
     
-    <item>
-      <title>Organic Innovations</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/</link>
-      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

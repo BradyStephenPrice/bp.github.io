@@ -30,5 +30,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/25898_cr17.5_farm/featured.JPEG" />
     </item>
     
+    <item>
+      <title>Nikkal Farms</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/nikkal_farms/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/nikkal_farms/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/nikkal_farms/featured.png" />
+    </item>
+    
   </channel>
 </rss>

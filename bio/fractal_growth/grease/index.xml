@@ -101,6 +101,16 @@
     </item>
     
     <item>
+      <title>Grow Grease</title>
+      <link>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/grow_grease/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/grow_grease/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/fractal_growth/grease/grow_grease/featured.png" />
+    </item>
+    
+    <item>
       <title>OG Grease</title>
       <link>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/og_grease/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

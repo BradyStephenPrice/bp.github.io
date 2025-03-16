@@ -31,6 +31,26 @@
     </item>
     
     <item>
+      <title>How To Make A IMO</title>
+      <link>http://localhost:1313/bp.github.io/howto/how_to_make_imo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/howto/how_to_make_imo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How To Make Lacto For Plants</title>
+      <link>http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/featured.png" />
+    </item>
+    
+    <item>
       <title>How To Clone Plants</title>
       <link>http://localhost:1313/bp.github.io/howto/how_to_clone_plants/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -78,16 +98,6 @@
       <guid>http://localhost:1313/bp.github.io/howto/how_to_make_plant_extracts_for_plants/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/how_to_make_plant_extracts_for_plants/featured.png" />
-    </item>
-    
-    <item>
-      <title>How To Make Lacto For Plants</title>
-      <link>http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/how_to_make_lacto_for_plants/featured.png" />
     </item>
     
   </channel>
