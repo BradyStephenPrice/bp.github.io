@@ -211,16 +211,6 @@
     </item>
     
     <item>
-      <title>Fiber Seed Hemp</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/fiber_seed_hemp/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/fiber_seed_hemp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Western Bakery</title>
       <link>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
@@ -378,6 +368,26 @@
       <guid>http://localhost:1313/bp.github.io/books/dr.white/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/dr.white/featured.png" />
+    </item>
+    
+    <item>
+      <title>Fertilizers</title>
+      <link>http://localhost:1313/bp.github.io/fertilizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/fertilizers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fiber Seed Hemp</title>
+      <link>http://localhost:1313/bp.github.io/bio/gardening/fiber_seed_hemp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/gardening/fiber_seed_hemp/</guid>
+      <description></description>
+      
     </item>
     
     <item>
