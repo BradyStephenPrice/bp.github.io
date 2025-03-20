@@ -183,12 +183,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/fiber_seed_hemp/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/western_bakery/</loc>
     <lastmod>2017-07-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -301,6 +295,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/fertilizers/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/gardening/fiber_seed_hemp/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
