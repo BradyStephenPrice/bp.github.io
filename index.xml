@@ -147,7 +147,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/dinaminica_generale/featured%20copy.png" />
     </item>
     
     <item>
@@ -167,7 +167,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/orkel/featured%20copy.png" />
     </item>
     
     <item>
@@ -501,26 +501,6 @@
     </item>
     
     <item>
-      <title>Oil</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil/featured.jpeg" />
-    </item>
-    
-    <item>
-      <title>Oil Test Results</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil_test_results/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/oil_test_results/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Purple Label</title>
       <link>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/purple_label/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -552,12 +532,12 @@
     
     <item>
       <title>Sparations of Oil</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/sparations/</link>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/separations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/sparations/</guid>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/separations/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/sparations/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/separations/featured.jpg" />
     </item>
     
     <item>
