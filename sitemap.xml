@@ -264,6 +264,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/gardening/blackberries/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/bloom_grease/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
