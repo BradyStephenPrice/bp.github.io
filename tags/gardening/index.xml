@@ -107,7 +107,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/gardening/strawberries/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/gardening/strawberries/featured.jpeg" />
     </item>
     
     <item>
@@ -117,7 +117,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/bio/gardening/tomatoes/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/gardening/tomatoes/featured.jpeg" />
     </item>
     
     <item>

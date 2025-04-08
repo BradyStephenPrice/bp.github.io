@@ -284,6 +284,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/bp.github.io/bio/gardening/corn/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/crude_oil/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -305,6 +310,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/gardening/fiber_seed_hemp/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/gardening/gardens/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -365,6 +375,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/bp.github.io/bio/organic_innovations/laboratory/roto_vape/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/bp.github.io/bio/gardening/sage/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
