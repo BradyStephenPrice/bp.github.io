@@ -202,12 +202,12 @@
     
     <item>
       <title>Rocket Farms</title>
-      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms/</link>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms_ca/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms/</guid>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms_ca/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/rocket_farms_ca/featured.png" />
     </item>
     
     <item>
@@ -417,7 +417,7 @@
       <author>bradyprice1@gmail.com (Brady Price)</author>
       <guid>http://localhost:1313/bp.github.io/fertilizers/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/fertilizers/featured.jpeg" />
     </item>
     
     <item>
@@ -488,6 +488,26 @@
       <guid>http://localhost:1313/bp.github.io/bio/fractal_growth/grease/grow_grease/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/fractal_growth/grease/grow_grease/featured.png" />
+    </item>
+    
+    <item>
+      <title>House Plants</title>
+      <link>http://localhost:1313/bp.github.io/bio/gardening/houseplants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/gardening/houseplants/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>How to make a hemp dream catcher</title>
+      <link>http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/featured.jpeg" />
     </item>
     
     <item>
@@ -588,6 +608,26 @@
       <guid>http://localhost:1313/bp.github.io/bio/gardening/strawberries/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/gardening/strawberries/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Sunburn</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/sunburn_fl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/sunburn_fl/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/sunburn_fl/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Sunfest</title>
+      <link>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/sunfest_fl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/bio/organic_innovations/greenhouse/sunfest_fl/</guid>
+      <description></description>
+      
     </item>
     
     <item>
