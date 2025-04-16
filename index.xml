@@ -71,6 +71,16 @@
     </item>
     
     <item>
+      <title>Dr.James White</title>
+      <link>http://localhost:1313/bp.github.io/books/dr.white/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/dr.white/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/dr.white/featured.png" />
+    </item>
+    
+    <item>
       <title>How To Clone Plants</title>
       <link>http://localhost:1313/bp.github.io/howto/how_to_clone_plants/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -131,6 +141,66 @@
     </item>
     
     <item>
+      <title>Teaming With Algae</title>
+      <link>http://localhost:1313/bp.github.io/books/teaming_with_algae/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/teaming_with_algae/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_algae/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teaming With Bacteria</title>
+      <link>http://localhost:1313/bp.github.io/books/teaming_with_bacteria/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/teaming_with_bacteria/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_bacteria/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Cyanobateria</title>
+      <link>http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Teaming With Fungi</title>
+      <link>http://localhost:1313/bp.github.io/books/teaming_with_fungi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/teaming_with_fungi/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_fungi/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Microbes</title>
+      <link>http://localhost:1313/bp.github.io/books/teaming_with_microbes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/teaming_with_microbes/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_microbes/featured.png" />
+    </item>
+    
+    <item>
+      <title>Teaming With Nutrients</title>
+      <link>http://localhost:1313/bp.github.io/books/teaming_with_nutrients/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/books/teaming_with_nutrients/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_nutrients/featured.png" />
+    </item>
+    
+    <item>
       <title>Sprinter Van</title>
       <link>http://localhost:1313/bp.github.io/bio/fractal_growth/spriter_van/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -138,6 +208,16 @@
       <guid>http://localhost:1313/bp.github.io/bio/fractal_growth/spriter_van/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/bio/fractal_growth/spriter_van/featured.png" />
+    </item>
+    
+    <item>
+      <title>How to make a hemp dream catcher</title>
+      <link>http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <author>bradyprice1@gmail.com (Brady Price)</author>
+      <guid>http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/featured.jpeg" />
     </item>
     
     <item>
@@ -401,16 +481,6 @@
     </item>
     
     <item>
-      <title>Dr.James White</title>
-      <link>http://localhost:1313/bp.github.io/books/dr.white/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/dr.white/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/dr.white/featured.png" />
-    </item>
-    
-    <item>
       <title>Fertilizers</title>
       <link>http://localhost:1313/bp.github.io/fertilizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -498,16 +568,6 @@
       <guid>http://localhost:1313/bp.github.io/bio/gardening/houseplants/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>How to make a hemp dream catcher</title>
-      <link>http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/howto/how_to_make_hemp_dream_catcher/featured.jpeg" />
     </item>
     
     <item>
@@ -658,66 +718,6 @@
       <guid>http://localhost:1313/bp.github.io/img/</guid>
       <description></description>
       
-    </item>
-    
-    <item>
-      <title>Teaming With Algae</title>
-      <link>http://localhost:1313/bp.github.io/books/teaming_with_algae/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/teaming_with_algae/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_algae/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Teaming With Bacteria</title>
-      <link>http://localhost:1313/bp.github.io/books/teaming_with_bacteria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/teaming_with_bacteria/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_bacteria/featured.png" />
-    </item>
-    
-    <item>
-      <title>Teaming With Cyanobateria</title>
-      <link>http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_cyanobateria/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Teaming With Fungi</title>
-      <link>http://localhost:1313/bp.github.io/books/teaming_with_fungi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/teaming_with_fungi/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_fungi/featured.png" />
-    </item>
-    
-    <item>
-      <title>Teaming With Microbes</title>
-      <link>http://localhost:1313/bp.github.io/books/teaming_with_microbes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/teaming_with_microbes/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_microbes/featured.png" />
-    </item>
-    
-    <item>
-      <title>Teaming With Nutrients</title>
-      <link>http://localhost:1313/bp.github.io/books/teaming_with_nutrients/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>bradyprice1@gmail.com (Brady Price)</author>
-      <guid>http://localhost:1313/bp.github.io/books/teaming_with_nutrients/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/bp.github.io/books/teaming_with_nutrients/featured.png" />
     </item>
     
     <item>
